@@ -1,0 +1,8 @@
+Use Cases of ML in Insurance Domain:
+Risk Modeling: Analyze claims to predict Profit or Loss. 
+Demand Modeling: Predicts Demand for Insurance Product in the future. 
+Detecting Fraud: Pretty obvious....
+Processing Claims: Automate Claim Reporting and Processing.
+Underwriting: Help underwriters analyze data collected from applicants to discover any inconsistences or raise red flags the underwriters might otherwise miss. 
+
+ 
